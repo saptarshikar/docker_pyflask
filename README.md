@@ -1,0 +1,1 @@
+This repo contains a dockerfile to build a container with python, flask, sqlalchemy etc. This will be used as a starting point for my various other projects.
